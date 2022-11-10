@@ -1,1 +1,2 @@
-# local-api-json-server-auth-main
+# local-api-json-server-auth
+A Little Fake Local API for mock and study
